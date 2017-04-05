@@ -82,8 +82,7 @@ else:
 
 #send email
 #http://stackoverflow.com/questions/10147455/how-to-send-an-email-with-gmail-as-provider-using-python
-users =['italosayanus@gmail.com','aldo.delgado.heredia@gmail.com','Renatosm96@gmail.com'
-,'rsalazar@accapitales.com','b.escobarizquierdo@alum.up.edu.pe']
+users =["YOUREMAIL@gmail.com]
 
 print "Sending"
 for user in users:
