@@ -1,5 +1,6 @@
 #Scraping tool for twitter emojis.
 # Api keys should be added by the user. I'm using #love as an example.
+# It will return a list of the most common emojis given a hastag.
 # The output can be used as a feature in sentiment analysis or in ML models.
 #
 
